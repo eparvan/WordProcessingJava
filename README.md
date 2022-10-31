@@ -1,5 +1,4 @@
 # WordProcessingJava
-"/**
  * Count words
  * Given a text the program should output:
  *
@@ -15,4 +14,4 @@
  * 1. Total count of letters - (numarul de litere)
  * 2. The amount of duplicated letters - (numarul de litere care se intilnesc de 2 sau mai multe ori)
  * 3. The amount of occurrences for every letter  - (pentru fiecare litera de cite ori se intilneste in text)
- */"	
+
